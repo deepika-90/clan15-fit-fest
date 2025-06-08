@@ -6,5 +6,9 @@
   },
   "engines": {
     "node": "18.x"
-  }
+  },
+  "dependencies": {
+  "vite": "^5.0.0",
+  // other deps...
+}
 }
