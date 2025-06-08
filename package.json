@@ -9,6 +9,6 @@
   },
   "dependencies": {
   "vite": "^5.0.0",
-  // other deps...
+ 
 }
 }
